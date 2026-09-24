@@ -1,0 +1,8 @@
+student_name='Sangam'
+print(student_name,type(student_name))
+is_student=True
+print(is_student,type(is_student))
+age=17
+print(age,type(age))
+score=99.99
+print(isinstance(score,float))

@@ -6,3 +6,4 @@ age=17
 print(age,type(age))
 score=99.99
 print(isinstance(score,float))
+print(score,type(score))
